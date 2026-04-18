@@ -1,0 +1,2 @@
+# Laptop-prediction-by-zaid-khan
+BCA DS-AI 4 SEMESTER DATA SCIENCE PROJECT BY MOHD ZAID KHAN
